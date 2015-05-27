@@ -1,0 +1,56 @@
+{
+	"javatar_gp": 0,
+	"jdk_version":
+	{
+		"JDK1.7.0u75":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/bin",
+			"update": "75",
+			"version": "1.7.0"
+		},
+		"JDK1.7.0u79":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/bin",
+			"update": "79",
+			"version": "1.7.0"
+		},
+		"JDK1.8.0u45":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/bin",
+			"update": "45",
+			"version": "1.8.0"
+		},
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"19":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/wpinhei/projetos/atlantico"
+				}
+			]
+		},
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/wpinhei/projetos/caravela"
+				}
+			]
+		},
+		"28":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/wpinhei/projetos/angularjs"
+				}
+			]
+		}
+	}
+}

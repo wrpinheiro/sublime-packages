@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BufferScroll",
+		"ChangeQuotes",
+		"ColorPicker",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"JavaScriptNext - ES6 Syntax",
+		"Javatar",
+		"jQuery",
+		"JSON Reindent",
+		"LESS",
+		"LiveStyle",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	]
+}
